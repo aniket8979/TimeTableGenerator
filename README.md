@@ -1,1 +1,1 @@
-Genetic Algorithm - Auto TimeTable Generator
+Automatic TimeTable Generator using Genetic Algorithm
